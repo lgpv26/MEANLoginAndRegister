@@ -1,4 +1,4 @@
-# Sistema de cadastro e login 
+# Sistema de cadastro e login - MEAN
 
 Sistema simples de cadastro e login de usuários com autenticação JWT no back-end,
 validação de formulários tanto no lado do cliente (front-end) quanto no lado do servidor (back-end),
