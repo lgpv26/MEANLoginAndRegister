@@ -1,0 +1,11 @@
+<div class="container">
+    <h1 class="">User Profile</h1>
+    <hr>
+    <div class="mt-3">
+        <ol class="ml-3 list-unstyled">
+            <li>{{userProfileDetails?.fullName}}</li>
+            <li>{{userProfileDetails?.email}}</li>
+        </ol>
+    </div>
+    <button (click)="logout()" type="button" class="btn btn-primary" style="position: absolute; top: .8em; left: 80%">Logout</button>
+</div>
